@@ -1,9 +1,9 @@
 FROM alpine:edge AS builder
 WORKDIR /app
 
-RUN apk --update --no-cache add hugo git
+RUN apk --update --no-cache add hugo
 COPY . /app
-RUN git submodule update && hugo
+RUN hugo
 
 FROM nginx:alpine
 
