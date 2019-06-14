@@ -1,0 +1,8 @@
+# Generated files
+public/
+resources/_gen/
+
+# Junk files
+*~
+*.tmp
+.DS_Store

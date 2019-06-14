@@ -1,0 +1,36 @@
+baseURL = "https://alirus.ir/"
+languageCode = "en-us"
+title = "Alirus"
+theme = "hugo-coder"
+canonifyurls = "true"
+
+[params]
+    author = "Ali AslRousta"
+    info = "Backend Developer | Go Enthusiast | Rust Lover"
+    description = "A Developer's Personal Website"
+    avatarurl = "images/avatar.jpg"
+    keywords = "blog,developer,personal"
+    math = "yes"
+    hidecredits = "yes"
+    hidecopyright = "yes"
+
+# Social Links
+
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github fa-2x"
+    weight = 1
+    url = "https://github.com/aslrousta/"
+
+[[params.social]]
+    name = "Twitter"
+    icon = "fab fa-twitter fa-2x"
+    weight = 2
+    url = "https://twitter.com/aslrousta/"
+
+# Menu Links
+
+[[menu.main]]
+    name = "Blog"
+    weight = 1
+    url  = "/posts/"
