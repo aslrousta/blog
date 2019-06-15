@@ -10,4 +10,4 @@ externalLink = ""
 series = []
 +++
 
-Hello World! Here's the place that my thoughts will spread around the world.
+Here's the place that my thoughts will spread around the world.
