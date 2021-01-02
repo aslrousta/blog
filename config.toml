@@ -1,4 +1,4 @@
-baseURL = "http://alirus.ir"
+baseURL = "http://alirus.ir/"
 languageCode = "en-us"
 title = "Alirus"
 theme = "uilite"
