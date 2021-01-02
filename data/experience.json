@@ -1,0 +1,66 @@
+{
+	"title": "Experiences",
+	"experience": [
+		{
+			"timeperiod": "Oct 2019 - Jun 2020",
+			"company": "Sheypoor",
+			"website": "https://www.sheypoor.com",
+			"description": "Site Reliability Engineer | Kept things up and running. Monitored errors and fixed them. Performed code reviews. Implemented infrastructure services."
+		},
+		{
+			"timeperiod": "Nov 2018 - Sep 2019",
+			"company": "Sheypoor",
+			"website": "https://www.sheypoor.com",
+			"description": "Technical Team Lead | Provided directions, overall plans and leading executions toward goals for Alounak software."
+		},
+		{
+			"timeperiod": "Jul 2018 - Oct 2019",
+			"company": "Sheypoor",
+			"website": "https://www.sheypoor.com",
+			"description": "Backend Developer | Maintained and developed Sheypoor backend."
+		},
+		{
+			"timeperiod": "Sep 2017 - Mar 2018",
+			"company": "Snapp",
+			"website": "https://snapp.ir",
+			"description": "Backend Developer | Maintained and developed Snapp backend."
+		},
+		{
+			"timeperiod": "Sep 2016 - Aug 2017",
+			"company": "Anashid Games",
+			"description": "Backend Developer | Developed game servers and network services."
+		},
+		{
+			"timeperiod": "Dec 2015 - Aug 2016",
+			"company": "Rahnema",
+			"website": "https://rahnema.com",
+			"description": "Backend Developer | Maintained and developed the legacy business portal."
+		},
+		{
+			"timeperiod": "Apr 2014 - Nov 2015",
+			"company": "Turned-On Digital",
+			"website": "http://www.todco.ir",
+			"description": "Backend Developer | Implemented backend services and game servers for online mobile games."
+		},
+		{
+			"timeperiod": "Dec 2012 - Nov 2014",
+			"company": "AKS Consulting Engineers",
+			"description": "Software Developer | Researched on Distinct Element Methods (DEM) and Contact Detection algorithms. Implemented GeoDEMS software, a hydro-mechanical distinct element code for analyzing rock mechanics problems."
+		},
+		{
+			"timeperiod": "Dec 2012 - Nov 2014",
+			"company": "ICTRC at AUT",
+			"description": "Researcher and Software Developer | Researched on implementation of an IMS server for 4th generation of mobile services on Linux platform."
+		},
+		{
+			"timeperiod": "Nov 2011 - Nov 2012",
+			"company": "Hatef Banking Systems",
+			"description": "Software Developer | Implemented of network services and banking protocols."
+		},
+		{
+			"timeperiod": "Aug 2011 - Oct 2011",
+			"company": "Hatef Banking Systems",
+			"description": "Intern | Implemented ATM hardware drivers based on XFS standard."
+		}
+	]
+}
